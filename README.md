@@ -100,17 +100,18 @@ TODO
 
 ### Pre-requisitos para despliegue
 
-- Cualquier HMD Oculus (Rift, Go, Quest, etc.) [_Probado en un Oculus Quest 2_]
+- Cualquier HMD Oculus (Go, Quest, Quest 2) [_Probado en un Oculus Quest 2_]
 - Archivo APK
   - [Descargar](https://github.com/Cerozob/ISIS4814-Demo2/releases)
 
 ### Instalación para despliegue
 
-1. Conectar el HMD al computador
+- [Guía de instalación para un Oculus Quest 2](https://headjack.io/knowledge-base/how-to-easily-sideload-a-vr-app-to-oculus-quest-2/)
+- [Guía de instalación para un Oculus Go](https://headjack.io/tutorial/sideload-install-app-apk-oculus-go-quest/)  
 
 ## Ejemplos de uso
 
 ---
 
-- [Video de ejemplo 1](youtubelink)
-- [Video de ejemplo 2](youtubelink)
+- [Video de ejemplo 1](https://www.youtube.com/watch?v=5t6Dt9IoJLY)
+- [Video de ejemplo 2](https://www.youtube.com/watch?v=Pf4v7NrlwWE)
