@@ -74,11 +74,19 @@ TODO
    - Abrir Unity Hub
 
    - Seleccionar la pestaña "Projects"
+ 
+![selecttab](https://user-images.githubusercontent.com/55302468/140423330-5a63a823-5175-4e9d-b42d-4633cf6301cc.png)
 
    - Usar el botón "ADD" y seleccionar la carpeta donde se clonó el repositorio.
 
+![addbutton](https://user-images.githubusercontent.com/55302468/140423385-49f3bdd6-ff41-4f34-ae32-5207006a6a4c.png)
+
+![selectfolder](https://user-images.githubusercontent.com/55302468/140423919-3f99d955-7cad-4b04-bb1b-2ecf53adbd3e.png)
+
    - Seleccionar el proyecto agregado.
      - Asegurarse de que el proyecto tiene asignada la versión de Unity 2020.3.1f1.
+
+![unityversioncheck](https://user-images.githubusercontent.com/55302468/140424414-5c2834d7-affb-4781-b154-6df8432c4301.png)
 
 #### Desplegar el proyecto desde Unity
 
