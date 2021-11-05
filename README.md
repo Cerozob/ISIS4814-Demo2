@@ -2,7 +2,9 @@
 
 Aprende a preparar diferentes platos de cocina en un ambiente de realidad virtual.
 
-TODO Agregar una imagen descriptiva de publicidad
+![entrenadorpromo1](https://user-images.githubusercontent.com/55302468/140456575-29e264b6-46fa-4afc-b6de-87e658583d25.png)
+
+*Imagen del tomate tomada de freepik.com*
 
 ## Sobre el demo
 
