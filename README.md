@@ -21,7 +21,7 @@ TODO Agregar una imagen descriptiva de publicidad
 
 ### Descripción
 
-TODO
+El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las personas a aprender a cocinar diferentes platos de comida. La experiencia plasma al usuario en una cocina virtual, con ingredientes y utensilios virtuales que el usuario puede ver y manipular con las manos para ir preparando el plato de acuerdo con la guía interactiva, que le muestra al usuario lo que debe hacer para continuar y le señala los utensilios e ingredientes de interés. Esta experiencia cuenta con 2 recetas diferentes, ambas llevando al usuario desde un conjunto de ingredientes sueltos hacia un plato de comida terminado. 
 
 ### Características
 
@@ -43,7 +43,8 @@ TODO
 
 - Unity Editor Versión 2020.3.1f1
 
-  - [Instalar con Unity Hub](unityhub://2020.3.1f1/77a89f25062f)
+  - Instalar con Unity Hub 
+    - URL: unityhub://2020.3.1f1/77a89f25062f
   - [Descargar para Windows](https://download.unity3d.com/download_unity/77a89f25062f/UnityDownloadAssistant-2020.3.1f1.exe)
   - [Descargar para MacOS](https://download.unity3d.com/download_unity/77a89f25062f/UnityDownloadAssistant-2020.3.1f1.dmg)
 
@@ -93,7 +94,13 @@ TODO
 1. Conectar un HMD Oculus al computador
 2. En Unity Editor
    - Seleccionar la pestaña "File"
+   
+![image](https://user-images.githubusercontent.com/55302468/140439489-39c59035-22b3-4b00-825c-111e3149eec1.png)
+   
    - En el menú desplegado seleccionar la opción "Build Settings"
+
+![image](https://user-images.githubusercontent.com/55302468/140439396-1c324bab-fd54-49ed-b876-32dca92124e1.png)
+
    - En el cuadro de diálogo seleccionar la plataforma Android.
 
 ![selectandroid](https://user-images.githubusercontent.com/55302468/140437717-316618f5-a2a7-4b8a-9d4c-a0b0d52ed94f.png)
