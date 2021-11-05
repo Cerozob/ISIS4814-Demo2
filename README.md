@@ -121,7 +121,7 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
 
 - Cualquier HMD Oculus (Go, Quest, Quest 2) [_Probado en un Oculus Quest 2_]
 - Archivo APK
-  - [Descargar](https://github.com/Cerozob/ISIS4814-Demo2/releases)
+  - [Descargar](https://drive.google.com/file/d/1tyGFzrmvEO8mG1VdE_AI8hg3auTPD4Ib/view?usp=sharing)
 
 ### Instalación para despliegue
 
