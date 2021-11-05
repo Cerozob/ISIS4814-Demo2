@@ -67,8 +67,10 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
    - Clonar el repositorio de GitHub
 
    ```bash
-   git clone https://github.com/Cerozob/ISIS4814-Demo2
+   git clone --recurse-submodules -j8 https://github.com/Cerozob/ISIS4814-Demo2
    ```
+   
+   - Después de clonarse,
 
 2. En Unity Hub:
 
