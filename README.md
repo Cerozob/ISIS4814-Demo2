@@ -106,9 +106,11 @@ TODO
 
 ### Instalación para despliegue
 
-- [Guía de instalación para un Oculus Quest 2](https://headjack.io/knowledge-base/how-to-easily-sideload-a-vr-app-to-oculus-quest-2/)
-- [Guía de instalación para un Oculus Go](https://headjack.io/tutorial/sideload-install-app-apk-oculus-go-quest/)  
-
+- Opción 1: desplegar directamente a un HMD
+  - [Guía de instalación para un Oculus Quest 2](https://headjack.io/knowledge-base/how-to-easily-sideload-a-vr-app-to-oculus-quest-2/)
+  - [Guía de instalación para un Oculus Go](https://headjack.io/tutorial/sideload-install-app-apk-oculus-go-quest/)  
+- Opción 2: desplegar desde Unity Editor:
+  - [Ver Guía de instalación y despliegue para desarrollo](#Instalación-para-desarrollo)
 ## Ejemplos de uso
 
 ---
