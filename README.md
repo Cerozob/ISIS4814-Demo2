@@ -70,7 +70,11 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
    git clone --recurse-submodules -j8 https://github.com/Cerozob/ISIS4814-Demo2
    ```
    
-   - Después de clonarse,
+   - Después de clonar el repositorio, clonar el submódulo que contiene los archivos del proyecto de Unity. 
+   ```bash
+   # En la raíz del repositorio clonado:
+   git submodule add --name VRTestProject https://github.com/Cerozob/VRTestProyectFiles
+   ```
 
 2. En Unity Hub:
 
