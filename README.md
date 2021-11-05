@@ -95,8 +95,20 @@ TODO
    - Seleccionar la pestaña "File"
    - En el menú desplegado seleccionar la opción "Build Settings"
    - En el cuadro de diálogo seleccionar la plataforma Android.
+
+![selectandroid](https://user-images.githubusercontent.com/55302468/140437717-316618f5-a2a7-4b8a-9d4c-a0b0d52ed94f.png)
+
    - En la opción de "Run Device", abrir la lista desplegable y elegir el HMD que se encuentra conectado.
-   - Seleccionar el botón "Build and run".
+
+![oculustdropdown](https://user-images.githubusercontent.com/55302468/140437836-98b0e277-46e6-46aa-9b6b-035c70eb18b1.png)
+
+   - En la parte superior, únicamente seleccionar la escena "Scenes/VRTestScene"
+
+![image](https://user-images.githubusercontent.com/55302468/140437900-a09f4788-08a3-4d57-8f91-a797d2c1ae16.png)
+
+   - Seleccionar "Build and run".
+
+![image](https://user-images.githubusercontent.com/55302468/140438024-5b5a4923-de98-4be3-8ea0-83695b88d8d8.png)
 
 ### Pre-requisitos para despliegue
 
@@ -110,7 +122,8 @@ TODO
   - [Guía de instalación para un Oculus Quest 2](https://headjack.io/knowledge-base/how-to-easily-sideload-a-vr-app-to-oculus-quest-2/)
   - [Guía de instalación para un Oculus Go](https://headjack.io/tutorial/sideload-install-app-apk-oculus-go-quest/)  
 - Opción 2: desplegar desde Unity Editor:
-  - [Ver Guía de instalación y despliegue para desarrollo](#Instalación-para-desarrollo)
+  - [Ver Guía de instalación y despliegue para desarrollo](#instalación-para-desarrollo)
+
 ## Ejemplos de uso
 
 ---
