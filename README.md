@@ -73,7 +73,7 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
    - Después de clonar el repositorio, clonar el submódulo que contiene los archivos del proyecto de Unity. 
    ```bash
    # En la raíz del repositorio clonado:
-   git submodule add --name VRTestProject https://github.com/Cerozob/VRTestProyectFiles
+   git submodule add https://github.com/Cerozob/VRTestProyectFiles
    ```
 
 2. En Unity Hub:
@@ -91,6 +91,7 @@ El entrenador de cocina es una aplicación cuyo objetivo es ayudar a las persona
 ![selectfolder](https://user-images.githubusercontent.com/55302468/140423919-3f99d955-7cad-4b04-bb1b-2ecf53adbd3e.png)
 
    - Seleccionar el proyecto agregado.
+     - En este caso, el proyecto tiene el nombre de "VRTestProyectFiles"
      - Asegurarse de que el proyecto tiene asignada la versión de Unity 2020.3.1f1.
 
 ![unityversioncheck](https://user-images.githubusercontent.com/55302468/140424414-5c2834d7-affb-4781-b154-6df8432c4301.png)
